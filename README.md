@@ -24,8 +24,5 @@ Tech Stack
 Getting Started
 Clone the repo
 
-Install dependencies with npm install
 
-Run the development server with npm run dev
 
-Open http://localhost:3000 to view the app
